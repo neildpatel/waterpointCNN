@@ -5,3 +5,6 @@ This repository contains scripts for detecting public water points in urban area
 - Roboflow API Key
 - Google Cloud account with a Street View Static API key
 - Bounded study area (I recommend restricting to a single neighborhood or ward at a time due to the time required for downloading images and running inference)
+
+ImageDownload_GSV.ipynb: Tutorial for downloading images from GSV (developed by MIT's Sustainable Cities Lab)
+ObjectDetection_GSV.ipynb: Script for deploying the object detection model from Roboflow
