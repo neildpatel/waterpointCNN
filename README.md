@@ -7,7 +7,7 @@ This repository contains scripts for detecting public water points in urban area
 - Bounded study area (I recommend restricting to a single neighborhood or ward at a time due to the time required for downloading images and running inference)
 
 **Overview**
-* ImageDownload_GSV.ipynb: Tutorial for downloading images from GSV (developed by MIT's Sustainable Cities Lab)
+* ImageDownload_GSV.ipynb: Tutorial for downloading images from GSV (developed by MIT's Senseable City Lab)
 * ObjectDetection_GSV.ipynb: Script for deploying the object detection model from Roboflow
 
 **More Information**
