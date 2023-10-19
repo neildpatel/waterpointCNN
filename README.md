@@ -14,3 +14,4 @@ This repository contains scripts for detecting public water points in urban area
 
 **More Information**
 * Poster Presentation at UNC Water & Health Conference (October 25, 2023)
+* Tech Showcase at UNC Water & Health Conference (October 25, 2023)
