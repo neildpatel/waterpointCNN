@@ -13,5 +13,6 @@ This repository contains scripts for detecting public water points in urban area
 * ObjectDetection_GSV.ipynb: Script for deploying the object detection model from Roboflow
 
 **More Information**
-* Poster Presentation at UNC Water & Health Conference (October 25, 2023)
-* Tech Showcase at UNC Water & Health Conference (October 25, 2023)
+* Publication in Water Practice & Technology (July 25, 2024): https://doi.org/10.2166/wpt.2024.197
+* Poster Presentation at UNC Water & Health Conference (October 25, 2023): https://neildpatel.github.io/files/Patel_UNC_Poster.pdf
+* Tech Showcase at UNC Water & Health Conference (October 25, 2023): https://neildpatel.github.io/files/UNC%20Tech%20Showcase.pdf
